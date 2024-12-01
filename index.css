@@ -1,0 +1,10 @@
+.resume{
+    background-color:black;
+    display:flex;
+    justify-content: center;
+    height:100vh;
+
+}
+img{
+    box-shadow:2px 3px 15px blue;
+}
