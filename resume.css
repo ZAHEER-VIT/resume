@@ -7,7 +7,7 @@
 }
 img{
     box-shadow:2px 3px 15px blue;
-    width:80%;
+    width:90%;
     user-select: none;
 }
 @media only screen and (min-width:300px) and(max-width:630px){
